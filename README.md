@@ -14,20 +14,20 @@ This repository contains a jupyter notebook to reproduce Figure 1 in our paper, 
 
 
 
-_This repository is currently being expanded._
 
 ## Requirements
-Soon.
-
+The notebook can be easily run on Google Colab.
 
 
 ## Citation
 
 ```
-@article{mozannar2020fair,
-  title={Fair Learning with Private Demographic Data},
-  author={Mozannar, Hussein and Ohannessian, Mesrob I and Srebro, Nathan},
-  journal={arXiv preprint arXiv:2002.11651},
-  year={2020}
+@inproceedings{mozannar2020fair,
+  title={Fair learning with private demographic data},
+  author={Mozannar, Hussein and Ohannessian, Mesrob and Srebro, Nathan},
+  booktitle={International Conference on Machine Learning},
+  pages={7066--7075},
+  year={2020},
+  organization={PMLR}
 }
 ```
